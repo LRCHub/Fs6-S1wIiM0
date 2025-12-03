@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "アンヘル",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-03T09:24:50.782038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンヘル (煮ル果実 Remix)",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/01_アンヘル_(煮ル果実_Remix)_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンヘル",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/02_アンヘル_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンヘル - 煮ル果実 Remix",
+      "artist": "Kairikibear",
+      "has_synced": false,
+      "path": "select/03_アンヘル_-_煮ル果実_Remix_Kairikibear.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンヘル [煮ル果実 Remix]",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/04_アンヘル_[煮ル果実_Remix]_Kairiki_Bear.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンヘル(feat.鳴花ミコト)",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/05_アンヘル(feat.鳴花ミコト)_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンヘル (Ángel) -MARETU Remix-",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/06_アンヘル_(Ángel)_-MARETU_Remix-_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンヘル (Angel) -MARETU Remix-",
+      "artist": "かいりきベア (Kairiki Bear)",
+      "has_synced": true,
+      "path": "select/07_アンヘル_(Angel)_-MARETU_Remix-_かいりきベア_(Kairiki_Bear).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンヘル -MARETU Remix-",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/08_アンヘル_-MARETU_Remix-_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンヘル (feat. 鳴花ミコト)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/09_アンヘル_(feat._鳴花ミコト)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンヘル (Feat. 鳴花ミコト)",
+      "artist": "かいりきヘア",
+      "has_synced": true,
+      "path": "select/10_アンヘル_(Feat._鳴花ミコト)_かいりきヘア.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンヘル",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/11_アンヘル_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アンヘル",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/12_アンヘル_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アンヘル",
+      "artist": "かいりきベア feat. 鳴花ミコト",
+      "has_synced": true,
+      "path": "select/13_アンヘル_かいりきベア_feat._鳴花ミコト.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アンヘル x 煮ル果実 Remix",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/14_アンヘル_x_煮ル果実_Remix_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アンヘル (MARETU Remix)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/15_アンヘル_(MARETU_Remix)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アンヘル",
+      "artist": "Kairikibear/鳴花ミコト",
+      "has_synced": false,
+      "path": "select/16_アンヘル_Kairikibear_鳴花ミコト.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンヘル",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_アンヘル_かいりきベア.txt"
+    }
+  ]
+}
